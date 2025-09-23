@@ -1,0 +1,246 @@
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\appsettings.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\lab1simpleexample.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\lab2ratelimiter.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\ocelot.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\APIGatewayServer.exe
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\APIGatewayServer.deps.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\APIGatewayServer.runtimeconfig.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\APIGatewayServer.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\APIGatewayServer.pdb
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Abstractions.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Web.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Web.Certificate.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Web.Certificateless.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Web.Diagnostics.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Ocelot.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.csproj.AssemblyReference.cache
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.AssemblyInfoInputs.cache
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.AssemblyInfo.cs
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.csproj.CoreCompileInputs.cache
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\obj\Debug\net8.0\staticwebassets\msbuild.APIGatewayServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\obj\Debug\net8.0\staticwebassets\msbuild.build.APIGatewayServer.props
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIGatewayServer.props
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIGatewayServer.props
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\obj\Debug\net8.0\scopedcss\bundle\APIGatewayServer.styles.css
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\obj\Debug\net8.0\APIGatew.49B8D7E2.Up2Date
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\obj\Debug\net8.0\refint\APIGatewayServer.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.pdb
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.genruntimeconfig.cache
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\APIGatewayServer\obj\Debug\net8.0\ref\APIGatewayServer.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\lab1simpleexample.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\lab2ratelimiter.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\ocelot.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\appsettings.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\APIGatewayServer.exe
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\APIGatewayServer.deps.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\APIGatewayServer.runtimeconfig.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\APIGatewayServer.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\APIGatewayServer.pdb
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Abstractions.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Web.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Web.Certificate.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Web.Certificateless.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Web.Diagnostics.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Ocelot.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.csproj.AssemblyReference.cache
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.AssemblyInfoInputs.cache
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.AssemblyInfo.cs
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.csproj.CoreCompileInputs.cache
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\obj\Debug\net8.0\staticwebassets\msbuild.APIGatewayServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\obj\Debug\net8.0\staticwebassets\msbuild.build.APIGatewayServer.props
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIGatewayServer.props
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIGatewayServer.props
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\obj\Debug\net8.0\scopedcss\bundle\APIGatewayServer.styles.css
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\obj\Debug\net8.0\APIGatew.49B8D7E2.Up2Date
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\obj\Debug\net8.0\refint\APIGatewayServer.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.pdb
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.genruntimeconfig.cache
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\APIGatewayServer\obj\Debug\net8.0\ref\APIGatewayServer.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\appsettings.json
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\lab1simpleexample.json
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\lab2ratelimiter.json
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\ocelot.json
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\APIGatewayServer.exe
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\APIGatewayServer.deps.json
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\APIGatewayServer.runtimeconfig.json
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\APIGatewayServer.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\APIGatewayServer.pdb
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Abstractions.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Web.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Web.Certificate.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Web.Certificateless.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Web.Diagnostics.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Ocelot.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.csproj.AssemblyReference.cache
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.AssemblyInfoInputs.cache
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.AssemblyInfo.cs
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.csproj.CoreCompileInputs.cache
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\obj\Debug\net8.0\staticwebassets\msbuild.APIGatewayServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\obj\Debug\net8.0\staticwebassets\msbuild.build.APIGatewayServer.props
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIGatewayServer.props
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIGatewayServer.props
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\obj\Debug\net8.0\scopedcss\bundle\APIGatewayServer.styles.css
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\obj\Debug\net8.0\APIGatew.49B8D7E2.Up2Date
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\obj\Debug\net8.0\refint\APIGatewayServer.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.pdb
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\obj\Debug\net8.0\APIGatewayServer.genruntimeconfig.cache
+C:\Users\shivB\source\repos\CustomerMicroServices\APIGatewayServer\obj\Debug\net8.0\ref\APIGatewayServer.dll

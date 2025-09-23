@@ -1,0 +1,63 @@
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\LearnRabbitMQ\bin\Debug\net8.0\LearnRabbitMQ.exe
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\LearnRabbitMQ\bin\Debug\net8.0\LearnRabbitMQ.deps.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\LearnRabbitMQ\bin\Debug\net8.0\LearnRabbitMQ.runtimeconfig.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\LearnRabbitMQ\bin\Debug\net8.0\LearnRabbitMQ.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\LearnRabbitMQ\bin\Debug\net8.0\LearnRabbitMQ.pdb
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\LearnRabbitMQ\bin\Debug\net8.0\Polly.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\LearnRabbitMQ\bin\Debug\net8.0\Polly.Core.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\LearnRabbitMQ\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\LearnRabbitMQ\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\LearnRabbitMQ\bin\Debug\net8.0\System.Threading.RateLimiting.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.csproj.AssemblyReference.cache
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.AssemblyInfoInputs.cache
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.AssemblyInfo.cs
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\LearnRabbitMQ\obj\Debug\net8.0\LearnRab.41429EB6.Up2Date
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\LearnRabbitMQ\obj\Debug\net8.0\refint\LearnRabbitMQ.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.pdb
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.genruntimeconfig.cache
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice\LearnRabbitMQ\obj\Debug\net8.0\ref\LearnRabbitMQ.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\LearnRabbitMQ\bin\Debug\net8.0\LearnRabbitMQ.exe
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\LearnRabbitMQ\bin\Debug\net8.0\LearnRabbitMQ.deps.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\LearnRabbitMQ\bin\Debug\net8.0\LearnRabbitMQ.runtimeconfig.json
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\LearnRabbitMQ\bin\Debug\net8.0\LearnRabbitMQ.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\LearnRabbitMQ\bin\Debug\net8.0\LearnRabbitMQ.pdb
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\LearnRabbitMQ\bin\Debug\net8.0\Polly.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\LearnRabbitMQ\bin\Debug\net8.0\Polly.Core.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\LearnRabbitMQ\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\LearnRabbitMQ\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\LearnRabbitMQ\bin\Debug\net8.0\System.Threading.RateLimiting.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.csproj.AssemblyReference.cache
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.AssemblyInfoInputs.cache
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.AssemblyInfo.cs
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\LearnRabbitMQ\obj\Debug\net8.0\LearnRab.41429EB6.Up2Date
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\LearnRabbitMQ\obj\Debug\net8.0\refint\LearnRabbitMQ.dll
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.pdb
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.genruntimeconfig.cache
+C:\Users\shivB\source\repos\CustomerMicroServicesPractice For Practice\LearnRabbitMQ\obj\Debug\net8.0\ref\LearnRabbitMQ.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\LearnRabbitMQ\bin\Debug\net8.0\LearnRabbitMQ.exe
+C:\Users\shivB\source\repos\CustomerMicroServices\LearnRabbitMQ\bin\Debug\net8.0\LearnRabbitMQ.deps.json
+C:\Users\shivB\source\repos\CustomerMicroServices\LearnRabbitMQ\bin\Debug\net8.0\LearnRabbitMQ.runtimeconfig.json
+C:\Users\shivB\source\repos\CustomerMicroServices\LearnRabbitMQ\bin\Debug\net8.0\LearnRabbitMQ.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\LearnRabbitMQ\bin\Debug\net8.0\LearnRabbitMQ.pdb
+C:\Users\shivB\source\repos\CustomerMicroServices\LearnRabbitMQ\bin\Debug\net8.0\Polly.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\LearnRabbitMQ\bin\Debug\net8.0\Polly.Core.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\LearnRabbitMQ\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\LearnRabbitMQ\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\LearnRabbitMQ\bin\Debug\net8.0\System.Threading.RateLimiting.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.csproj.AssemblyReference.cache
+C:\Users\shivB\source\repos\CustomerMicroServices\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivB\source\repos\CustomerMicroServices\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.AssemblyInfoInputs.cache
+C:\Users\shivB\source\repos\CustomerMicroServices\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.AssemblyInfo.cs
+C:\Users\shivB\source\repos\CustomerMicroServices\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\shivB\source\repos\CustomerMicroServices\LearnRabbitMQ\obj\Debug\net8.0\LearnRab.41429EB6.Up2Date
+C:\Users\shivB\source\repos\CustomerMicroServices\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\LearnRabbitMQ\obj\Debug\net8.0\refint\LearnRabbitMQ.dll
+C:\Users\shivB\source\repos\CustomerMicroServices\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.pdb
+C:\Users\shivB\source\repos\CustomerMicroServices\LearnRabbitMQ\obj\Debug\net8.0\LearnRabbitMQ.genruntimeconfig.cache
+C:\Users\shivB\source\repos\CustomerMicroServices\LearnRabbitMQ\obj\Debug\net8.0\ref\LearnRabbitMQ.dll
