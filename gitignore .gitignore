@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+
+# Ignore build output folders
+[Bb]in/
+[Oo]bj/
+**/[Bb]in/
+**/[Oo]bj/
+
+# Ignore Debug folders (top-level and nested)
+Debug/
+**/Debug/
+
+# User and temp files
+*.user
+*.suo
+*.cache
+*.log
