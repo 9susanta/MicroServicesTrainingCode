@@ -1,0 +1,45 @@
+﻿/.vs
+/.vscode
+/bin
+/obj
+/*.user
+/*.suo
+/*.userprefs
+/*.sln.docstates
+
+# Build results
+/[Bb]in/
+[Oo]bj/
+[Ll]og/
+TestResults/
+[Dd]ebug/
+
+# Rider / JetBrains
+.idea/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+
+# ASP.NET Core
+appsettings.Development.json
+appsettings.*.json
+*.db
+*.sqlite
+*.mdb
+
+# Docker
+**/docker-compose.override.yml
+**/docker-compose*.yaml
+
+# Others
+.env
+node_modules/
+wwwroot/lib/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
